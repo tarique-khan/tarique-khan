@@ -20,4 +20,5 @@ Frontend: Android
 ### Get In Touch
 - Email: tarique.khan3071@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tarique-khan-138239b3/
+- Medium: https://medium.com/@tarique.khan3071/
 
