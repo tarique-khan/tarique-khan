@@ -14,6 +14,12 @@ Chat Engine is an Android SDK that can be integrated into any existing applicati
 Server Technology: Openfire built on top of XMPP framework
 Frontend: Android
 
+#### Flutter Projects
+https://github.com/tarique-khan/Flutter-Projects
+
+#### Android Projects
+https://github.com/tarique-khan/Android-Projects
+
 ### Articles
 - Flutter Widget Testing: https://medium.com/@tarique.khan3071/flutter-widget-testing-6213f954b29b
 
