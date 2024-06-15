@@ -1,4 +1,4 @@
-# Tarique Khan - Senior Mobile Developer (Android|Flutter)
+# Tarique Khan - Lead Mobile Developer (Android|iOS|Flutter|React Native)
 
 A Results-oriented and innovative Senior Mobile Developer with 7+ years of experience. Proficient in developing, and mentoring Android|Flutter applications. Provides strong technical direction across multiple projects.
 
